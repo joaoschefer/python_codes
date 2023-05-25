@@ -7,5 +7,12 @@
 # Enviar as alterações para o github = git push -u origin master
 
 
+# ATUALIZAR O CÓDIGO NO GITHUB #
+# Verificar o status dos arquivos = git status
+# Adicionar as alterações feitas = git add .
+# Confirmar alterações = git commit -m "Descrição das alterações" (colocar algo para se achar)
+# Enviar as alterações feitas para o github = git push origin master
+
+
 
 print("Opa")
